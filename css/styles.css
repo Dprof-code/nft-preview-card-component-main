@@ -39,7 +39,7 @@ main {
 }
 
 #nft-container {
-  max-width: 400px;
+  max-width: 350px;
   background-color: var(--veryDarkBlueCard);
   border-radius: 20px;
 
