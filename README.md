@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Dprof-code/nft-preview-card-component-main]
+- Live Site URL: [https://silver-kitten-9b2673.netlify.app/]
 
 ## My process
 
@@ -58,6 +58,6 @@ I learnt how to use the CSS Selectors and Combinators
 
 ## Author
 
-- Website - [Olawale Adedamola](https://www.github.com/Dprof-code)
+- Website - [Olawale Adedamola](https://www.linkedin.com/in/olawale-adedamola-b9b1641a2/)
 - Frontend Mentor - [@Dprof-code](https://www.frontendmentor.io/profile/Dprof-code)
 - Twitter - [@pr0devs](https://www.twitter.com/pr0devs)
